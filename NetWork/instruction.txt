@@ -1,0 +1,1 @@
+1.PacketDistributed 在创建包时，传入的参数MessageID 的数据结构自行设计，和服务器协调并一致
